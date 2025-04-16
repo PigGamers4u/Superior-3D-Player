@@ -1,0 +1,10 @@
+{
+  "materials": {
+    "version": "1.0.0",
+    "player_mesh:entity_alphatest": {
+      "-defines": [ "FANCY" ],
+      "+defines": [ "DISABLE_TINTING" ],
+      "+states": [ "DisableCulling" ]
+    }
+  }
+}

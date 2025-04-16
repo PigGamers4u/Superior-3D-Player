@@ -1,0 +1,50 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "§ePack Made By §bBigGamers4u\n§eVersion §b3.6\n§eYouTube: §bhttps://www.youtube.com/channel/UCj7J71iHWtfgzKDdbXbS8ag\n§eDiscord: §bbiggamers4u\n§eDiscord Server: §bhttps://discord.gg/5s9JuQDASw\n§eTwitter / X: §bhttps://x.com/BigGamers4u\n§eMCPEDL: §bhttps://mcpedl.com/user/BigGamers4u/",
+    "name": "§l§o§dSuperior §63D §ePlayer",
+    "uuid": "79bfabb0-5145-414d-9f98-7b3704fe58a0",
+    "version": [ 1, 0, 0 ],
+    "min_engine_version": [ 1, 20, 2 ]
+  },
+  "modules": [
+    {
+      "description": "News Of The Pack Will Be In Discord Server - §6https://discord.gg/5s9JuQDASw",
+      "type": "resources",
+      "uuid": "b844a8f3-e30e-4d70-b69b-6408995a190b",
+      "version": [ 1, 0, 0 ]
+    }
+  ],
+  "subpacks":[
+      {
+         "folder_name":"hat-layer 3d cape",
+         "name":"§eThird 3D Hat-Layer / Custom Cape\n§6You'll need to edit your skin for this!\n§f[§4WARNING§f] §cThis might mess up other players skins (including persona skins) on servers",
+         "memory_tier":0
+      },
+      {
+         "folder_name":"hat-layer cape",
+         "name":"§eThird Hat-Layer / Custom Cape\n§6You'll need to edit your skin for this!\n§f[§4WARNING§f] §cThis might mess up other players skins (including persona skins) on servers",
+         "memory_tier":0
+      },
+      {
+         "folder_name":"cape",
+         "name":"§eCustom Cape\n§6You'll need to edit your skin for this!\n§f[§4WARNING§f] §cThis might mess up other players skins (including persona skins) on servers",
+         "memory_tier":0
+      },
+      {
+         "folder_name":"volonids 3d",
+         "name":"§e3D 2D-Layer Less Blocky\n§dSuggested by §eVolonid",
+         "memory_tier":0
+      },
+      {
+         "folder_name":"not cubic",
+         "name":"§eNot Cubic",
+         "memory_tier":0
+      },
+      {
+         "folder_name":"default",
+         "name":"§eDefault / Standard",
+         "memory_tier":0
+      }
+   ]
+}
